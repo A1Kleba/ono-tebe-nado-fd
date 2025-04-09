@@ -24,7 +24,7 @@
   text-decoration: none;
 }
 
-.header__logo{
+.header__logo {
   width: 148px;
   height: 105px;
 }
@@ -116,7 +116,7 @@
   line-height: 28px;
 }
 
-.bet-button{
+.bet-button {
   font: inherit;
   color: inherit;
   cursor: pointer;
@@ -283,7 +283,7 @@ footer {
   justify-items: center;
 }
 
-.footer__menu-list-item{
+.footer__menu-list-item {
   font-size: 18px;
   text-underline-offset: 4px;
 }
